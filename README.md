@@ -14,6 +14,3 @@ your team shall investigate the given dataset (including the data understanding 
 present interesting patterns, trends, and insights on how their content can be improved to cater to
 their subscribers and recommend several suggestions to incorporate into SUSS+’s strategy
 moving forward to enhance profit
-
-## Insights and Summary
-*Work in Progress*
