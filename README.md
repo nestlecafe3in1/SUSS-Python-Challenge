@@ -1,7 +1,6 @@
 # SUSS-Python-Challenge
 
-## Task
-Based on the given problem statement given, you and your team are required to:<br />
+## Tasks
 (i) clean/process the given dataset <br />
 (ii) generate useful data visualisations <br />
 (iii) data story-telling via video presentation <br />
