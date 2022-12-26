@@ -1,5 +1,4 @@
 # SUSS-Python-Challenge
-Python visualisation challenge involving data cleaning, exploratory data analysis and data visualisations.
 
 ## Tasks
 (i) clean/process the given dataset <br />
